@@ -48,3 +48,10 @@ Thumbs.db
 
 # TypeScript
 *.tsbuildinfo
+
+#webjs auth
+.wwebjs_auth/
+
+#webjs cache
+.wwebjs_cache/
+
