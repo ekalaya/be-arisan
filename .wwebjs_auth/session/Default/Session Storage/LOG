@@ -1,2 +1,5 @@
-2025/05/01-21:40:01.813 b003 Creating DB /Users/ekalayamanullang/development/be-arisan/.wwebjs_auth/session/Default/Session Storage since it was missing.
-2025/05/01-21:40:01.850 b003 Reusing MANIFEST /Users/ekalayamanullang/development/be-arisan/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
+2025/05/01-16:21:31.281 9daa Recovering log #6
+2025/05/01-16:21:31.281 9daa Level-0 table #8: started
+2025/05/01-16:21:31.288 9daa Level-0 table #8: 321 bytes OK
+2025/05/01-16:21:31.298 9daa Delete type=0 #6
+2025/05/01-16:21:31.298 9daa Delete type=3 #4

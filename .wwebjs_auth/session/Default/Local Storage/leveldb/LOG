@@ -1,2 +1,8 @@
-2025/05/01-21:39:58.800 b003 Creating DB /Users/ekalayamanullang/development/be-arisan/.wwebjs_auth/session/Default/Local Storage/leveldb since it was missing.
-2025/05/01-21:39:58.813 b003 Reusing MANIFEST /Users/ekalayamanullang/development/be-arisan/.wwebjs_auth/session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/05/01-16:21:30.774 9da3 Recovering log #6
+2025/05/01-16:21:30.776 9da3 Level-0 table #8: started
+2025/05/01-16:21:30.779 9da3 Level-0 table #8: 3116 bytes OK
+2025/05/01-16:21:30.785 9da3 Delete type=0 #6
+2025/05/01-16:21:30.785 9da3 Delete type=3 #4
+2025/05/02-00:42:03.312 a5e7 Level-0 table #11: started
+2025/05/02-00:42:03.317 a5e7 Level-0 table #11: 15414 bytes OK
+2025/05/02-00:42:03.322 a5e7 Delete type=0 #9

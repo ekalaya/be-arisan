@@ -52,5 +52,7 @@ Thumbs.db
 #webjs auth
 .wwebjs_auth/
 
+.wwebjs_auth/session/
+
 #webjs cache
 .wwebjs_cache/
